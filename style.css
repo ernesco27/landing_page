@@ -63,13 +63,15 @@ SUP{
 }
 
 h1{
-    font-size: 48px;
+    font-size: 60px; 
     color: white;
+    
 }
 
 .content > p{
     font-size: 18px;
     color: white;
+    padding-top: 10px;
 }
 
 .register-btn{
@@ -145,8 +147,10 @@ blockquote {
 
 blockquote cite{
     font-size: 80%;
+    font-weight: 600;
     display: block;
     font-style: normal;
+    padding-top: 10px;
 }
  
 .register-btn2{
